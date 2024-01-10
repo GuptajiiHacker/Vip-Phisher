@@ -338,7 +338,7 @@ printf "\e[0m\e[93m    v    |   |       |    _|  | _|_ ___||  |_|__ | \_ \e[0m\e
 printf "\e[0m\n"
 printf "    \e[0m\e[1;44m Advanced Phishing Tool with 30+ Templates\e[0m\n"
 printf "\e[0m\n"
-printf "\e[0m\e[92m  AUTHOR \e[0m\e[91m     :\e[0m\e[93m KrishnaGupta \e[0m\e[91m[\e[0m\e[93m HTR-TECH \e[0m\e[91m]\e[0m\n"
+printf "\e[0m\e[92m  AUTHOR \e[0m\e[91m     :\e[0m\e[93m KrishnaGupta \e[0m\e[91m[\e[0m\e[93m HackerGuptaji \e[0m\e[91m]\e[0m\n"
 printf "\e[0m\n"
 printf "\e[0m\e[92m  GITHUB \e[0m\e[91m     : \e[0m\e[96mhttps://github.com/GuptajiHacker\e[0m\n"
 printf "\e[0m\n"
